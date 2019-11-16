@@ -1,6 +1,6 @@
-## Booth-Multiplier-in-iverilog
+# Booth-Multiplier-in-iverilog
 
-# Modules and sub-modules
+## Modules and sub-modules
     
 1. booth_multiplier(): This module takes in two signed 8-bit inputs, the multiplicand and the multiplier, and generates one signed 16-bit output, the product.
     Inputs: two 8-bit signed binary numbers
