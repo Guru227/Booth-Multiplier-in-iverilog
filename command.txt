@@ -1,0 +1,8 @@
+iverilog -o boo booth_v1.v lib.v tb_booth_v1.v
+
+
+vvp boo
+
+
+gtkwave tb_boothsalgo.vcd 
+
