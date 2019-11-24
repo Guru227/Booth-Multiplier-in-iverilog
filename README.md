@@ -1,4 +1,23 @@
-# Booth-Multiplier-in-iverilog
+# 16-bit Booth-Multiplier-in-iverilog
+
+## Project Details
+
+“16-bit Booth’s Multiplier”
+
+III SEM, B.TECH. (CSE)
+AUG-DEC ‘19
+DIGITAL DESIGN & COMPUTER ORGANIZATION LABORATORY
+Coding language: iVerilog+GtkWave
+
+## Problem Description
+
+Booth's multiplication algorithm is a multiplication algorithm that multiplies two signed binary numbers in two's complement 
+notation.
+
+## Implementation
+
+Booth's algorithm can be implemented by repeatedly adding (with ordinary unsigned binary addition) one of two predetermined 
+values S(sum of multiplicand and accumulator) and D(difference of multiplicand and accumulator) to a product P, then performing a rightward arithmetic shift on P.
 
 ## Modules and sub-modules
     
@@ -18,3 +37,5 @@ Outputs: 8-bit signed output ‘sum’
 This module implements two sub-modules: (defined in lib.v)
 a) xor2 (performs xor on two 1-bit inputs and results in one 1-bit output)
 b) fa (full-adder module for two 1-bit inputs and one carry-in input and results in one sum output and one carry-out output).
+
+### For PES University, 2019.
