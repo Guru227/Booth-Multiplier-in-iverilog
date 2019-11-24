@@ -4,9 +4,9 @@
 
 “16-bit Booth’s Multiplier”
 
-III SEM, B.TECH. (CSE)
+III Sem, B.Tech. (CSE)
 
-AUG-DEC ‘19 - DIGITAL DESIGN & COMPUTER ORGANIZATION LABORATORY
+Aug-Dec ‘19 - Digital Design and Computer Organisation Laboratory
 
 Coding language: iVerilog+GtkWave
 
