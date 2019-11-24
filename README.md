@@ -5,8 +5,9 @@
 “16-bit Booth’s Multiplier”
 
 III SEM, B.TECH. (CSE)
-AUG-DEC ‘19
-DIGITAL DESIGN & COMPUTER ORGANIZATION LABORATORY
+
+AUG-DEC ‘19 - DIGITAL DESIGN & COMPUTER ORGANIZATION LABORATORY
+
 Coding language: iVerilog+GtkWave
 
 ## Problem Description
@@ -38,4 +39,4 @@ This module implements two sub-modules: (defined in lib.v)
 a) xor2 (performs xor on two 1-bit inputs and results in one 1-bit output)
 b) fa (full-adder module for two 1-bit inputs and one carry-in input and results in one sum output and one carry-out output).
 
-### For PES University, 2019.
+### PES University, 2019.
